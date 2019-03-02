@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "434414529666",
+    "firebase_url": "https://kaddu-seller.firebaseio.com",
+    "project_id": "kaddu-seller",
+    "storage_bucket": "kaddu-seller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434414529666:android:713c8a72e3dd1c98",
+        "android_client_info": {
+          "package_name": "com.example.flutterkadduseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434414529666-bhuc72g60bpv8s7nqavj42mq4mmuhgkl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutterkadduseller",
+            "certificate_hash": "73d3fe0836b36e559be09f54889fb8c48fe70d7b"
+          }
+        },
+        {
+          "client_id": "434414529666-54dfn4kkiu2i5ji5uikr3f8ilb6u97m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAka4BsIpS_NgXtznnSAnS13qDj7oQm2Ss"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434414529666-54dfn4kkiu2i5ji5uikr3f8ilb6u97m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
