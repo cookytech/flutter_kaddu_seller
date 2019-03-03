@@ -1,4 +1,4 @@
-# flutter_kaddu_seller
+# flutter_laddoo_seller
 
 A new Flutter application to sell kaddus and nimbus with razorpay integration
 
